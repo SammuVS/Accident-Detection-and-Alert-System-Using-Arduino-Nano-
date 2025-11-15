@@ -17,5 +17,5 @@ We built a simple, low-cost safety system that tries to prevent accidents by usi
 - Mini DC Motor (3V–6V)
 - Buzzer (active)
 - LED 
-- Breadboard, jumper wires, USB cable
+- Breadboard, jumper wires,normal electrical wires and USB cable
 - HIW 9V battery (or appropriate power supply for motor)
