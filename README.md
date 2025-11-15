@@ -19,3 +19,8 @@ We built a simple, low-cost safety system that tries to prevent accidents by usi
 - LED 
 - Breadboard, jumper wires,normal electrical wires and USB cable
 - HIW 9V battery (or appropriate power supply for motor)
+
+## Troubleshooting
+1. If the IR sensor keeps detecting an object continuously, first cover it completely with a non-transparent plastic cover—but make sure the cover does not touch the sensor. This happens because of sunlight, so keep the sensor away from direct sunlight or keep it covered.
+
+2. Motor doesn't stop: check ENA PWM pin and IN1/IN2 wiring
