@@ -15,7 +15,7 @@ We built a simple, low-cost safety system that tries to prevent accidents by usi
 - REES52 IR Infrared Obstacle Avoidance Sensor Module
 - ADXL335 3-axis Accelerometer
 - Mini DC Motor (3V–6V)
-- Buzzer (active)
+- 5V Active Electromagnetic Buzzer
 - LED 
 - Breadboard, jumper wires,normal electrical wires and USB cable
 - HIW 9V battery (or appropriate power supply for motor)
