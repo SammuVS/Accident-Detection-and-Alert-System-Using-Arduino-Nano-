@@ -1,7 +1,7 @@
 # Accident-Detection-and-Alert-System-Using-Arduino-Nano-
 We built a simple, low-cost safety system that tries to prevent accidents by using a REES52 IR sensor to instantly stop the motor through an L298N when an obstacle appears. If a collision still occurs, the ADXL335 accelerometer detects the impact and activates a buzzer and LED to alert nearby people for immediate help.
 
-# How it works (flow)
+# How it works (flow) 
 
 1. The REES52 IR sensor constantly scans the area in front of the vehicle for any nearby obstacle.
 
@@ -9,7 +9,7 @@ We built a simple, low-cost safety system that tries to prevent accidents by usi
 
 3. If an impact still occurs, the ADXL335 accelerometer detects the sudden change in motion, and the Arduino activates the buzzer and LED to warn people around.
 
-## Components (what I used)
+## Components (what I used) 📋🛒
 - Arduino Nano
 - L298N Motor Driver Module
 - REES52 IR Infrared Obstacle Avoidance Sensor Module
@@ -20,7 +20,7 @@ We built a simple, low-cost safety system that tries to prevent accidents by usi
 - Breadboard, jumper wires,normal electrical wires and USB cable
 - HIW 9V battery (or appropriate power supply for motor)
 
-## Troubleshooting
+## Troubleshooting 🔫
 1. If the IR sensor keeps detecting an object continuously, first cover it completely with a non-transparent plastic cover—but make sure the cover does not touch the sensor. This happens because of sunlight, so keep the sensor away from direct sunlight or keep it covered.
 
 2. Motor doesn't stop: check ENA PWM pin and IN1/IN2 wiring
