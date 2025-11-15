@@ -16,6 +16,6 @@ We built a simple, low-cost safety system that tries to prevent accidents by usi
 - ADXL335 3-axis Accelerometer
 - Mini DC Motor (3V–6V)
 - Buzzer (active)
-- LED + resistor (220Ω)
+- LED 
 - Breadboard, jumper wires, USB cable
 - HIW 9V battery (or appropriate power supply for motor)
